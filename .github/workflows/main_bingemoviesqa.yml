@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'BingeMoviesQA'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ADE0688E103B4891B479CF838EDAAB16 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BD1CFDAA354413F988BEBABE34E3442 }}
           package: .
